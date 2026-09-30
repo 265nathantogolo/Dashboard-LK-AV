@@ -28,6 +28,8 @@ Prototype cliquable de l'application, construit sur le même design system que l
 - **Mon Zadig** : club, wishlist (pièces, looks, stories), préférences, boutiques, prise de RDV.
 - **CRM** : notifications push simulées (bannière), inbox, préférences d'opt-in.
 
+Version autonome en un seul fichier (polices et scripts intégrés) : `export/zadig-voltaire-demo.html`, à ouvrir par double-clic.
+
 Sur ordinateur, un panneau latéral lance les parcours content-to-commerce (A à E), déclenche des
 push et ouvre le drop. Sur mobile, l'app s'affiche en plein écran. L'état (panier, wishlist, RSVP,
 préférences) est mémorisé dans le navigateur ; « Réinitialiser » remet la démo à zéro.
